@@ -112,7 +112,7 @@ link to finished codepen: https://codepen.io/nhamilton1/pen/oNWbppz?editors=1100
         git rm    then specify the file. it will permanently delete. 
 
     34. Why should I use version control? 
-        Version control allows you to keep track of your work and see what changes have been made. 
+        Version control allows you to keep track of your work and see what changes have been made and/or all changes that have been made by others. 
 
     35. How often should I commit to github?
         anytime you make a change
@@ -128,10 +128,11 @@ link to finished codepen: https://codepen.io/nhamilton1/pen/oNWbppz?editors=1100
         step 5: git clone <link>
         step 6: make sure to cd to the new file location
         step 7: git checkout -b "firstname-lastname"
-        step 8: git add to add the repo changes and git commit -m "to add your commit message explaining what changes were added"
-        step 9: git push -u orgin firstname-lastname (only need to do -u orgin firstname-lastname on the first time you are making branch )
-            step 9a: from now on you only need to do git push
-        step 10: submit a pull request on github
+        step 8: git add . to add the repo changes and 
+        step 9: git commit -m "to add your commit message explaining what changes were added"
+        step 10: git push -u origin firstname-lastname (only need to do -u orgin firstname-lastname on the first time you are making branch )
+            step 10a: from now on you only need to do git push
+        step 11: submit a pull request on github
 
 Stretch Questions
 
