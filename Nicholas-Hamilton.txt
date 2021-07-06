@@ -129,7 +129,8 @@ link to finished codepen: https://codepen.io/nhamilton1/pen/oNWbppz?editors=1100
         step 6: make sure to cd to the new file location
         step 7: git checkout -b "firstname-lastname"
         step 8: git add to add the repo changes and git commit -m "to add your commit message explaining what changes were added"
-        step 9: git push -u orgin firstname-lastname 
+        step 9: git push -u orgin firstname-lastname (only need to do -u orgin firstname-lastname on the first time you are making branch )
+            step 9a: from now on you only need to do git push
         step 10: submit a pull request on github
 
 Stretch Questions
